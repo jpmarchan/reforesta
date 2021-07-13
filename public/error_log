@@ -1,0 +1,3 @@
+[22-Dec-2019 01:06:13 America/Chicago] PHP Warning:  require(/home3/bruno/public_html/reforesta/new/public/../bootstrap/app.php): failed to open stream: No such file or directory in /home3/bruno/public_html/reforesta/new/public/index.php on line 14
+[22-Dec-2019 01:06:13 America/Chicago] PHP Warning:  require(/home3/bruno/public_html/reforesta/new/public/../bootstrap/app.php): failed to open stream: No such file or directory in /home3/bruno/public_html/reforesta/new/public/index.php on line 14
+[22-Dec-2019 01:06:13 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home3/bruno/public_html/reforesta/new/public/../bootstrap/app.php' (include_path='.:/opt/php71/lib/php') in /home3/bruno/public_html/reforesta/new/public/index.php on line 14
